@@ -1,0 +1,12 @@
+/Users/charanghumman/Projects/calculator_application/calculator_library/bin/Debug/net5.0/calculator_library.deps.json
+/Users/charanghumman/Projects/calculator_application/calculator_library/bin/Debug/net5.0/calculator_library.dll
+/Users/charanghumman/Projects/calculator_application/calculator_library/bin/Debug/net5.0/ref/calculator_library.dll
+/Users/charanghumman/Projects/calculator_application/calculator_library/bin/Debug/net5.0/calculator_library.pdb
+/Users/charanghumman/Projects/calculator_application/calculator_library/obj/Debug/net5.0/calculator_library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charanghumman/Projects/calculator_application/calculator_library/obj/Debug/net5.0/calculator_library.AssemblyInfoInputs.cache
+/Users/charanghumman/Projects/calculator_application/calculator_library/obj/Debug/net5.0/calculator_library.AssemblyInfo.cs
+/Users/charanghumman/Projects/calculator_application/calculator_library/obj/Debug/net5.0/calculator_library.csproj.CoreCompileInputs.cache
+/Users/charanghumman/Projects/calculator_application/calculator_library/obj/Debug/net5.0/calculator_library.dll
+/Users/charanghumman/Projects/calculator_application/calculator_library/obj/Debug/net5.0/ref/calculator_library.dll
+/Users/charanghumman/Projects/calculator_application/calculator_library/obj/Debug/net5.0/calculator_library.pdb
+/Users/charanghumman/Projects/calculator_application/calculator_library/obj/Debug/net5.0/calculator_library.csproj.AssemblyReference.cache
